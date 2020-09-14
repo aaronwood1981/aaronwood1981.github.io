@@ -6,4 +6,4 @@ categories: Adventure
 ---
 One of the projects I've been working on
 
-![image](/assets/img/character_select.png){:}
+![image](/assets/img/character_select.png)

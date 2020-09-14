@@ -11,4 +11,4 @@ thought, this proved to be a bit daunting for a single person. Moreover, writing
 all this logic from nothing would have been exceedingly time consuming. This was
 when I discovered RPG Maker MV.
 
-Here is an example of one of the battle sequences. ![Battle](/assets/img/combat.png){:}
+Here is an example of one of the battle sequences. ![Battle](/assets/img/combat.png)
