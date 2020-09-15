@@ -36,4 +36,4 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
-  - 2014-*
+
