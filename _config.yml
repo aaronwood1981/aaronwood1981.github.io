@@ -7,7 +7,7 @@ url: "https://aaronwood.io"
 title_description: "A game development blog targeting mobile platforms"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
-disqus_account: 
+disqus_account: "https-aaronwood-io"
 github_repository: 
 addthis_id:
 post_limit: 5
