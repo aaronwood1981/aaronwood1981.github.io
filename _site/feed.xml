@@ -5,9 +5,22 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Sep 2020 01:04:58 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2020 01:04:58 -0400</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2020 22:54:02 -0400</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2020 22:54:02 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Concept Workflows</title>
+        <description>&lt;p&gt;When working through the concept of the “Gamebook Adventures”, I spent some time figuring out how I wanted to deploy my first app (and hopefully others to follow). At first I really wanted to work with native iOS and Swift as the language is quite enjoyable to use and modern. However, despite these advantages I didn’t want to be locked into the Apple ecosystem, and I’m not quite ready to build an independent framework to use on Android devices. I wound up choosing &lt;a href=&quot;https://unity.com&quot;&gt;Unity&lt;/a&gt; as the engine due to accessibility and relative ease of use. One of the assets I am fond of, and using in my projects is &lt;a href=&quot;https://fungusgames.com/&quot;&gt;Fungus&lt;/a&gt;. Although I have built a great deal of independent logic outside of this asset, it is a great tool to automate and visualize flow of the novel. It also excels when there is a need to generate repetitive tasks. Hopefully as I become nearer to completion, there isn’t any unintended side effect of a large, robust workflow. 
+&lt;img src=&quot;/img/flowchart.png&quot; alt=&quot;Flowchart&quot; /&gt;
+A small excerpt of the story with a battle sequence can be viewed here. &lt;a href=&quot;https://www.youtube.com/watch?v=N3aVcsbydmc&quot;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Sep 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/09/19/concept-workflows/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/19/concept-workflows/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Tome of Malice&amp;#58 Skills, Stats and Inventories</title>
@@ -34,11 +47,9 @@ They are Strength and Luck. There are numerous feats through the journey which r
 &lt;p&gt;Some very preliminary walkthrough of the prologue can be viewed &lt;a href=&quot;https://www.youtube.com/watch?v=v3zyC0sO4Bw&quot;&gt;HERE&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/2020/09/14/tome-of-malice-concept/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2020/09/14/tome-of-malice-concept/</guid>
+        <link>http://localhost:4000/2020/09/14/tome-of-malice-concept/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/14/tome-of-malice-concept/</guid>
         
-        
-        <category>jekyll</category>
         
       </item>
     
