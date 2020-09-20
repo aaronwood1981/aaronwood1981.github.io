@@ -3,7 +3,6 @@ layout:     post
 title:      Tome of Malice&#58 Skills, Stats and Inventories
 date:       2020-09-14
 author:     The Silent Developer
-categories: jekyll
 ---
 
 The series of "Game Book Adventures" I am trying to create are similar to the
